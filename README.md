@@ -1,1 +1,2 @@
 # Databazova_aplikace_lisejniky
+Základní webová aplikace pro vedení databáze lišejníků a údajů o sběru. V databázi lze vést přehled o sběrech včetně jejich souřadnic, nadmořské výšky a dalších informacích. Informace vedené o lišejnících jsou například český a vědecký název, třída, rod a čeleď, do které patří a další informace. Záznamy lze upravit a odstranit jednolivě pomocí tlačítek. Na hlavní stránce, se nacházejí tabulky se záznamy o všech lišejnících a sběrech.
