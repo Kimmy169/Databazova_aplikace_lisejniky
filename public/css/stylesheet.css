@@ -1,0 +1,40 @@
+#hlavni_nadpis {
+  font-family: "Indie-Flower", cursive;
+  color: #474241;
+  text-align: center;
+  text-shadow: 5px 5px 5px #474241;
+}
+#navigace {
+  background-color: #a7a88a;
+  text-align: center;
+  font-family: "Indie-Flower", cursive;
+}
+.form-group {
+  margin: 5px 5px 5px 5px;
+  font-family: "Indie-Flower", cursive;
+  font-size: larger;
+}
+div {
+  background-color: #b9c8bc;
+}
+.custom-label {
+  margin: 5px 5px 5px 5px;
+}
+#lisejnik_save,
+#lisejnik_reset,
+#sber_save,
+#sber_reset {
+  background-color: #474241;
+  color: #ffffff;
+}
+#tabulka_lisejniku th,
+#tabulka_lisejniku td,
+#tabulka_sberu th,
+#tabulka_sberu td {
+  border: 2px solid black;
+  background-color: #ffffff;
+}
+#tabulka_lisejniku,
+#tabulka_sberu {
+  padding: 3px;
+}
